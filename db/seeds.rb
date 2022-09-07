@@ -1,0 +1,8 @@
+Show.create(name: 'Arrow', network: 'CW', day: 'Tuesday', rating: 5, season: 'fall')
+Show.create(name: 'South Park', network: 'Comedy Central', day: 'Wednesday' , rating: 10, season: 'winter')
+Show.create(name: 'Family Guy', network: 'Fox' , day: 'Sunday' , rating: 9, season: 'winter')
+Show.create(name: 'Peaky Blinders', network: 'Netflix', day: 'Sunday', rating: 9, season: 'spring')
+Show.create(name: 'The Flash', network: 'CW' , day: 'Wednesday', rating: 6, season: 'fall')
+# Show.create(name: , network: , day: , rating: , season:)
+# Show.create(name: , network: , day: , rating: , season:)
+# Show.create(name: , network: , day: , rating: , season:)
